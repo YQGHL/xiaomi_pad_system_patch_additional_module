@@ -1,5 +1,3 @@
-ro.config.sothx_project_treble_support_vertical_screen_split=true
-ro.config.sothx_project_treble_vertical_screen_split_version=2
 ro.config.sothx_project_treble_support_cvw_full=true
 ro.config.sothx_project_treble_cvw_full_version=2
 ro.config.sothx_project_treble_support_disable_resize_black_list=true

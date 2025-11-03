@@ -372,7 +372,7 @@ patch_CustomDotBlackListEntry() {
 
 
 ### 运行修补
-patch_VerticalSplitEntry
+# patch_VerticalSplitEntry
 patch_CvwFullEntry
 patch_DisableFreeformBottomCaptionEntry
 patch_CustomDotBlackListEntry
